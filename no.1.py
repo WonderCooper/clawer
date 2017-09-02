@@ -29,4 +29,5 @@ def main():
 
 if__name__=='__main__':
 
-    main()
+main()
+/Users/wuchenduo/Documents/GitHub/clawer/no.1.py
